@@ -1,8 +1,11 @@
 package-lock.json
 .nyc_output
 .eslintcache
+yarn.lock
+yarn-error.log
 node_modules
 coverage
 dist
 benchmarkDist
 npm
+
