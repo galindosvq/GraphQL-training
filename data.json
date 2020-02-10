@@ -1,0 +1,18 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Nodejs Course",
+      "author": "Author Book",
+      "topic": "JavaScrip",
+      "url": "http://www.nodejs.com/"
+    },
+    {
+      "id": 2,
+      "title": "Graphql Course",
+      "author": "Author Book",
+      "topic": "Graphql",
+      "url": "http://www.graphql.org/"
+    }
+  ]
+}
